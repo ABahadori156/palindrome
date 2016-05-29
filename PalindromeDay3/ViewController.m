@@ -16,6 +16,8 @@
 
 @implementation ViewController
 
+// JanL likes ginger ale & milk 
+
 
 
 - (IBAction)onCheck:(UIButton *)sender {
